@@ -25,7 +25,17 @@ console.log("nums",nums) //
 let strs:string[] = ["a","b","c","d"]
 console.log("strs",strs)  //
 
+// let set = new Set()
 
+let set = new Set()
+set.add(1)
+
+console.log(set)
+
+
+// let obj = {name:"Max"}
+let obj:{[name:string]:string} = {name:"max"}
+console.log(obj)
 // let arr = [1,2,"a",[],{},true]
 
 let arr:[number,number,string,object,object,boolean] = [1,2,"a",[],{},true]   // this is not recommended
