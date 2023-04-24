@@ -1,5 +1,5 @@
-## TypeScript
-# Instructions
+# TypeScript
+## Instructions
 
 Finish filling out the basics.ts file in the Practice-problems, and then proceed to solve the rest of the problems.
 After finishing each file, check the generated code by the TypeScript compiler in the corresponding JavaScript file.
